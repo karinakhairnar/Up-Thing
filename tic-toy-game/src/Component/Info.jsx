@@ -1,9 +1,12 @@
-import React from 'react'
+import '../css/Info.css';
 
 const Info = () => {
   return (
-    <div>Info</div>
-  )
-}
+    <div className='info'>
+      <div className='player'>Player 1: X</div>
+      <div className='player'>Player 2: O</div>
+    </div>
+  );
+};
 
-export default Info
+export default Info;
