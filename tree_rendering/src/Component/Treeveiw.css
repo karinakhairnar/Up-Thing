@@ -1,0 +1,19 @@
+.treeComponent{
+    border: 2px solid grey;
+    padding: 1em;
+    width: 40%;
+}
+li{
+    list-style-type: circle;
+}
+.parent{
+    width: 80%;
+    display: flex;
+    gap: 2rem;
+    margin:10rem 15rem;
+    text-align: left;
+}
+.note{
+    font-size: 10px;
+    color: grey;
+}
