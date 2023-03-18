@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "name": "Karola Szubert",
+    "email": "kszubert0@facebook.com",
+    "group": "student"
+  }, {
+    "id": 2,
+    "name": "Florenza Dalmon",
+    "email": "fdalmon1@ft.com",
+    "group": "student"
+  }, {
+    "id": 3,
+    "name": "Yankee Moehle",
+    "email": "ymoehle2@si.edu",
+    "group": "student"
+  }, {
+    "id": 4,
+    "name": "Josi Ruckman",
+    "email": "jruckman3@joomla.org",
+    "group": "student"
+  }, {
+    "id": 5,
+    "name": "Tommie Tucknutt",
+    "email": "ttucknutt4@altervista.org",
+    "group": "student"
+  }, {
+    "id": 6,
+    "name": "Cathyleen Gilder",
+    "email": "cgilder5@blogs.com",
+    "group": "student"
+  }, {
+    "id": 7,
+    "name": "Bobine Odell",
+    "email": "bodell6@networksolutions.com",
+    "group": "student"
+  }, {
+    "id": 8,
+    "name": "Katleen Santora",
+    "email": "ksantora7@mac.com",
+    "group": "student"
+  }, {
+    "id": 9,
+    "name": "Eugenio Dimmne",
+    "email": "edimmne8@tuttocitta.it",
+    "group": "student"
+  }, {
+    "id": 10,
+    "name": "Patrice Rahlof",
+    "email": "prahlof9@mashable.com",
+    "group": "student"
+  }, {
+    "id": 11,
+    "name": "Wade Ackland",
+    "email": "wacklanda@irs.gov",
+    "group": "student"
+  }, {
+    "id": 12,
+    "name": "Farlee Razzell",
+    "email": "frazzellb@sakura.ne.jp",
+    "group": "student"
+  }, {
+    "id": 13,
+    "name": "Felice Learmonth",
+    "email": "flearmonthc@nymag.com",
+    "group": "student"
+  }, {
+    "id": 14,
+    "name": "Ewan Tollet",
+    "email": "etolletd@hhs.gov",
+    "group": "student"
+  }, {
+    "id": 15,
+    "name": "Vlad Hugonnet",
+    "email": "vhugonnete@jugem.jp",
+    "group": "student"
+  }, {
+    "id": 16,
+    "name": "Traci Overell",
+    "email": "toverellf@virginia.edu",
+    "group": "student"
+  }, {
+    "id": 17,
+    "name": "Myrta De Fraine",
+    "email": "mdeg@princeton.edu",
+    "group": "teacher"
+  }, {
+    "id": 18,
+    "name": "Natty Bortolozzi",
+    "email": "nbortolozzih@slate.com",
+    "group": "teacher"
+  }, {
+    "id": 19,
+    "name": "Crosby Linay",
+    "email": "clinayi@reference.com",
+    "group": "teacher"
+  }, {
+    "id": 20,
+    "name": "Florina Gilhooley",
+    "email": "fgilhooleyj@tumblr.com",
+    "group": "teacher"
+  }]
