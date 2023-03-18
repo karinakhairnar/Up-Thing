@@ -1,0 +1,70 @@
+.activestd{
+ width:fit-content;
+ margin: auto;
+ border:1px solid grey;
+border-radius: 5px;
+padding: 0.5rem;
+}
+.table{
+    border:1px solid grey;
+    border-radius: 5px;
+    text-align:center;
+    padding: 0.5rem;
+}
+.submissionheading{
+    text-align: left;
+}
+.subparent{
+    width:fit-content;
+ margin: auto;
+ margin-top: -2rem;
+ padding: 2rem;
+}
+.btnblue{
+background-color: darkblue;
+color:whitesmoke;
+border: none;
+}
+.btngreen{
+    background-color: rgb(50, 116, 50);
+    color: whitesmoke;
+    border: none;
+}
+.pendinggrey{
+background-color: grey;
+color: whitesmoke;
+}
+.chartparent{
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+}
+.chartheading{
+    display: flex;
+    justify-content:space-between;
+}
+.links button{
+ background-color: rgb(68, 115, 204);
+    color: whitesmoke;
+    border: none;
+    padding: 0.5rem;
+}
+.block{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.cover{
+    border:1px solid grey;
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 35%;
+}
+.title{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.subtitle{
+    font-weight: bold;
+}
