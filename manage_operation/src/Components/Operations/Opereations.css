@@ -1,8 +1,10 @@
-table, th, td {
-    padding: 0.5rem;
+table, th, td ,tr {
+    text-align: left;
+   
     border: 1px solid black;
     border-collapse: collapse;
-    text-align: left;
+  }
+  .parent{
+    width: 50%;
     margin: auto;
-    max-width: 80%;
   }
